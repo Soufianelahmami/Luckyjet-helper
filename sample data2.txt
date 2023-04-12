@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advance mod 1","desc":"Traveling can be an exciting and enriching experience, but planning a trip can be a time-consuming and stressful process. With so many options for flights, accommodations, ","photo":"https://iili.io/Hkyy9yu.jpg"},
+  {"title":"how to use this app 2","desc":"While planning a trip can be time-consuming and difficult, traveling can be an exciting and enriching experience. With so many flight and lodging options,","photo":"https://iili.io/Hkyydjj.webp"},
+  {"title":"tips pack 3","desc":" and activities, it's easy to get overwhelmed and bogged down in the details. Luckily, the Luckyjet Helper application is here to make travel planning a breeze.","photo":"https://iili.io/HkyyJTb.jpg"},
+  {"title":"helper mod 4","desc":"and activities, it's simple to become overburdened and mired in the specifics. Fortunately, the Luckyjet Assist app is available to make arranging a trip simple.","photo":"https://iili.io/Hkyy2Zx.webp"},
+  {"title":"advice pack 5","desc":"The Luckyjet Helper application is a travel planning tool that allows users to search for flights, book accommodations, and plan activities all in one place. The app is designed to streamline the travel planning process","photo":"https://iili.io/HkyyFCQ.jpg"},
+  {"title":"how to use this app 6","desc":"Users of the Luckyjet Helper application may search for flights, make hotel reservations, and schedule activities all in one location. The software is made to make the process of organizing a trip easier.","photo":"https://iili.io/HkyyKGV.jpg"},
+  {"title":"tips mod 7","desc":"making it easier for busy people to plan their dream vacations without spending hours scouring the internet for the best deals.","photo":"https://iili.io/HkyyB3P.jpg"},
+  {"title":"advance pack 8","desc":"One of the key features of the Luckyjet Helper application is its flight search engine. Users can search for flights by entering their departure and arrival cities, dates of travel, and preferred airline. ","photo":"https://iili.io/Hkyyf6B.jpg"}
 
    ]
  
